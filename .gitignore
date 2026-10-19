@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*key*
+*secret*
+*token*
+*credentials*
+
+# Downloaded opinions
+cases/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
